@@ -1,6 +1,5 @@
 # 🧠 AI Meeting Memory
-
-**Project 7 of 60 AI agents.** Turn meeting transcripts into minutes, then keep them in a searchable memory so you can ask *"What did we decide about the launch date?"* weeks later. Everything runs locally and **works offline**. Ollama only adds fluent minutes, answers and follow-up emails.
+ Turn meeting transcripts into minutes, then keep them in a searchable memory so you can ask *"What did we decide about the launch date?"* weeks later. Everything runs locally and **works offline**. Ollama only adds fluent minutes, answers and follow-up emails.
 
 ## Features
 - **Transcript formats:** Teams / Zoom / Meet `.vtt`, `.srt`, `[00:01:10] Name: text`, `Name: text`, plain notes, `.docx`, or paste
