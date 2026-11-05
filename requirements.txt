@@ -1,0 +1,5 @@
+streamlit>=1.36
+ollama>=0.3
+pandas>=2.0
+python-docx>=1.1
+pytest>=8.0

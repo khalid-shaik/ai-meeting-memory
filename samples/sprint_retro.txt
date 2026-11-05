@@ -1,0 +1,8 @@
+Meera: Let's do the retro. The dashboard launched on time which is great.
+Rahul: The data quality checks saved us. Before the launch we caught the duplicate records early.
+Priya: Reviews were slow this sprint. Code reviews often waited two days.
+Meera: We decided to start a daily review slot at 3 PM so reviews do not pile up.
+Alex: I'll set up the review slot calendar invite today.
+Rahul: Documentation is still weak. We should document the data pipeline.
+Meera: Agreed. Rahul to write the pipeline documentation by next Friday.
+Priya: Should we also look at automated data quality alerts? That is not decided yet, let's revisit next sprint.
